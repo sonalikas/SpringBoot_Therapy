@@ -1,5 +1,5 @@
 # INSTRUCTIONS
-### SpringBoot_Therapy clone this repository.
+### SpringBoot_Therapy clone this repository. https://github.com/sonalikas/SpringBoot_Therapy.git
 ### Import it Spring tool Suit or eclips as a maven project.
 ### Run as a Spring Boot App or normal java programe. 
 & here you go...
